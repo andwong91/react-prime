@@ -50,12 +50,7 @@ Upon answering all of the CLI questions, a ```primessr``` directory is created w
 - server.js
 - primeServer.js
 - primeCompare.html
-
-and either
 - returnHTML.js
-
-or, if you have Redux
-- returnReduxHTML.js
 
 Then, an SSR version of your application is automatically hosted on ```http://localhost:8080```.
 
